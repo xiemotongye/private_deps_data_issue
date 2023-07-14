@@ -56,4 +56,4 @@ This time, there is no `bazel-swift.png` & `bazel-objc.png` in Payload.
 
 ![](lost_data.png)
 
-I don't think this is an expected output. This behavior may cause some unexpected resource lost, and it's hard to discover this issue.
+I don't think this is an expected output. This behavior may cause some unexpected resource lost, and it's hard to discover which resources are missing.
